@@ -4,8 +4,16 @@ version = "0.1.0"
 description = ""
 authors = ["Amir Szekely <kichik@gmail.com>"]
 
+packages = [
+    { include = "src" }
+]
+
+[tool.poetry.scripts]
+demo = "src.hello:main"
+
 [tool.poetry.dependencies]
 python = "^3.10"
+requests = "^2.27.1"
 
 [tool.poetry.dev-dependencies]
 
