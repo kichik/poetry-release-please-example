@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.3](https://github.com/kichik/poetry-release-please-example/compare/v0.1.2...v0.1.3) (2022-03-21)
+
+
+### Bug Fixes
+
+* Install Poetry ([10730cf](https://github.com/kichik/poetry-release-please-example/commit/10730cf90acf90ae1479f7fa651f51b9eaaee92e))
+
 ### [0.1.2](https://github.com/kichik/poetry-release-please-example/compare/v0.1.1...v0.1.2) (2022-03-21)
 
 
