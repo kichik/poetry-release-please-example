@@ -18,7 +18,9 @@ jobs:
         with:
           python-version: '3.10'
         if: ${{ steps.release.outputs.release_created }}
-      - run: poetry install
+      - run: |
+          pip install poetry
+          poetry install
         if: ${{ steps.release.outputs.release_created }}
       - run: echo PUBLISH
         if: ${{ steps.release.outputs.release_created }}
