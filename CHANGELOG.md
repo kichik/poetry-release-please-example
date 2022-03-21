@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.1](https://github.com/kichik/poetry-release-please-example/compare/v0.1.0...v0.1.1) (2022-03-21)
+
+
+### Bug Fixes
+
+* Let the user know when we're done ([64dc863](https://github.com/kichik/poetry-release-please-example/commit/64dc8636190678d30c95ae89db6ffc9074c2f391))
+
 ## 0.1.0 (2022-03-21)
 
 
