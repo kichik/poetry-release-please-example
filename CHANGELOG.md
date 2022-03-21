@@ -1,5 +1,13 @@
 # Changelog
 
+### [0.1.4](https://github.com/kichik/poetry-release-please-example/compare/v0.1.3...v0.1.4) (2022-03-21)
+
+
+### Documentation
+
+* Add basic readme ([71db328](https://github.com/kichik/poetry-release-please-example/commit/71db328a6eb26d529b817f2e36e7ff6519f2e95d))
+* Mention new release ([206b98e](https://github.com/kichik/poetry-release-please-example/commit/206b98e031bc9d4f1f3b2f4e3dc4314a7b72b3c3))
+
 ### [0.1.3](https://github.com/kichik/poetry-release-please-example/compare/v0.1.2...v0.1.3) (2022-03-21)
 
 
