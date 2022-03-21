@@ -9,6 +9,7 @@ def main():
     except importlib.metadata.PackageNotFoundError:
         print("package not installed")
     print("my ip", requests.get("https://api.ipify.org").text)
+    print("done!")
 
 
 if __name__ == "__main__":
