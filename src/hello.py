@@ -10,6 +10,7 @@ def main():
         print("package not installed")
     print("my ip", requests.get("https://api.ipify.org").text)
     print("done!")
+    print("hello world")
 
 
 if __name__ == "__main__":
