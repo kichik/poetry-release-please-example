@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.2.0](https://github.com/kichik/poetry-release-please-example/compare/v0.1.4...v0.2.0) (2022-12-08)
+
+
+### Features
+
+* the world has already been hello'ed ([c57c81c](https://github.com/kichik/poetry-release-please-example/commit/c57c81ccb8ca92904044fb076b1ec4dc0fb63feb))
+
+
+### Bug Fixes
+
+* be calmer ([88be166](https://github.com/kichik/poetry-release-please-example/commit/88be1666a816f1d8bc9dd4a9a76bf92b1c4c9fd4))
+
 ### [0.1.4](https://github.com/kichik/poetry-release-please-example/compare/v0.1.3...v0.1.4) (2022-03-21)
 
 
